@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview",
+    "serve": "vite preview"
   },
   "dependencies": {
     "@axe-core/react": "^4.10.2",
